@@ -1,12 +1,14 @@
-# React + Vite
+# App Estate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App Estate is a modern web application for listing and discovering dream homes. Designed to offer a smooth and intuitive user experience, it allows users to browse, search, and post property listings with ease.
 
-Currently, two official plugins are available:
+Built with React, powered by Vite for fast performance, styled using Tailwind CSS, and integrated with real-time APIs using JavaScript, App Estate provides a responsive and scalable platform for real estate exploration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used
 
-## Expanding the ESLint configuration
+React – Frontend JavaScript library for building user interfaces
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vite – Fast development build tool and bundler for modern web apps
+
+Tailwind CSS – Utility-first CSS framework for styling
+
